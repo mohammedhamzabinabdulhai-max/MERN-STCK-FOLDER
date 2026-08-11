@@ -1,0 +1,14 @@
+*{
+    background-color: aqua;
+}
+.child {
+color: blueviolet;
+    padding: 10px;
+
+}
+#img1 {
+    width: 10%;
+}
+#img2 {
+    width: 10%;
+}

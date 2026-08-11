@@ -1,0 +1,63 @@
+/* #laptop {
+  color: blue;
+}
+#laptop-image {
+  width: 30rem;
+  height: 30rem;
+}
+#specs {
+  color: green;
+}
+#laptop-2 {
+  color: rgb(12, 182, 105);
+}
+#laptop-image-2 {
+  width: 30rem;
+  height: 30rem;
+}
+#specs-2 {
+  color: rgb(57, 161, 87);
+}
+.content {
+  border: 5px solid black;
+  box-shadow: 10px 10px 5px grey;
+  padding: 10px;
+  background-color: rgb(157, 177, 194);
+}
+.content-2 {
+  border: 5px solid rgb(156, 49, 49);
+  box-shadow: 10px 10px 5px grey;
+  padding: 10px;
+  background-color: rgb(141, 198, 248);
+} */
+/* .content {
+  background-color: rgba(206, 79, 221,0.6);
+  color: rgb(36, 102, 6);
+} */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#hello {
+  background-color: rgb(255, 0, 0);
+  opacity: 0.4;
+  position: relative;
+  top: 20px;
+  left: 20px;
+}
+#world {
+  background-color: rgb(0, 255, 0);
+  opacity: 0.3;
+  position: relative;
+  top: 80px;
+  left: 80px;
+}
+#by-css {
+  background-color: rgb(0, 0, 255);
+  opacity: 0.2;
+  position: relative;
+  top: 90px;
+  left: 70px;
+}
